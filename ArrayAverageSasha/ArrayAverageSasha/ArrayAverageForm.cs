@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ * Created by: Sasha Malko
+ * Created on: 22-Nov-2019
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #36 - Introduction to Arrays
+ * This program calculates the average of the values in an array. 
+*/
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
