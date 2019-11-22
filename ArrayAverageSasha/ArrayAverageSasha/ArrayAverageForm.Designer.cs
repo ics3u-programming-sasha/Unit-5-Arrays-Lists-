@@ -59,7 +59,7 @@
             // lstValues
             // 
             this.lstValues.FormattingEnabled = true;
-            this.lstValues.Location = new System.Drawing.Point(210, 96);
+            this.lstValues.Location = new System.Drawing.Point(221, 95);
             this.lstValues.Name = "lstValues";
             this.lstValues.Size = new System.Drawing.Size(315, 225);
             this.lstValues.TabIndex = 3;
@@ -67,10 +67,10 @@
             // lblAverage
             // 
             this.lblAverage.AutoSize = true;
-            this.lblAverage.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblAverage.Font = new System.Drawing.Font("Sitka Heading", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblAverage.Location = new System.Drawing.Point(462, 372);
             this.lblAverage.Name = "lblAverage";
-            this.lblAverage.Size = new System.Drawing.Size(0, 24);
+            this.lblAverage.Size = new System.Drawing.Size(0, 28);
             this.lblAverage.TabIndex = 4;
             // 
             // frmArrayAverage
