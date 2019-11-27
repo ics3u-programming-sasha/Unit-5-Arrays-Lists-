@@ -56,11 +56,10 @@
             // 
             this.lblMax.AutoSize = true;
             this.lblMax.Font = new System.Drawing.Font("Lucida Sans", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblMax.Location = new System.Drawing.Point(308, 375);
+            this.lblMax.Location = new System.Drawing.Point(267, 382);
             this.lblMax.Name = "lblMax";
-            this.lblMax.Size = new System.Drawing.Size(18, 22);
+            this.lblMax.Size = new System.Drawing.Size(0, 22);
             this.lblMax.TabIndex = 3;
-            this.lblMax.Text = "?";
             // 
             // frmFindMax
             // 
