@@ -63,7 +63,7 @@ namespace FindMaxSasha
         // Input: int[] tmpArrayOfIntegers
         // Output: The max value in the array
         // Description: This function accepts an array of integers, 
-        //scans the array and returns the greatest value in the array
+        // scans the array and returns the greatest value in the array.
         private int GetMaxValue(int[] tmpArrayOfIntegers)
         {
             // declare local variables
