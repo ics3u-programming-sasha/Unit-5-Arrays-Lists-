@@ -31,8 +31,7 @@ namespace ArrayAverageSasha
         private void BtnStart_Click(object sender, EventArgs e)
         {
             // declare local variables
-            int randomNumber;
-            int counter;
+            int randomNumber, counter;
             Random randomNumberGenerator = new Random();
 
             // clear list box
@@ -57,8 +56,7 @@ namespace ArrayAverageSasha
         private void BtnCalculateAverage_Click(object sender, EventArgs e)
         {
             // declare local variables
-            double average = 10;
-            double sum = 0;
+            double average = 10, sum = 10;
             int counter;
 
             // calculate the sum of all the values in the array
