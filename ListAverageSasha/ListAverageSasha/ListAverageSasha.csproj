@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AC1B26A1-11FD-49B5-A1CE-68170A11C236}</ProjectGuid>
+    <ProjectGuid>{0787F064-33B3-471A-876F-DD3A6150A167}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>ListAverageSasha</RootNamespace>
     <AssemblyName>ListAverageSasha</AssemblyName>
@@ -49,12 +49,12 @@
     <Compile Include="ListAverageForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
+    <Compile Include="ListAverageForm.Designer.cs">
       <DependentUpon>ListAverageForm.cs</DependentUpon>
     </Compile>
     <Compile Include="ListAverage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
+    <EmbeddedResource Include="ListAverageForm.resx">
       <DependentUpon>ListAverageForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">

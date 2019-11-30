@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ * Created by: Sasha Malko
+ * Created on: 27-Nov-2019
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #39 - List Average
+ * This program calculates the average of the values in a list.
+*/
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,33 +19,57 @@ namespace ListAverageSasha
 {
     public partial class frmListAverage : Form
     {
+        // create an empty list of integers
+        List<int> myListOfIntegers = new List<int>();
+
         public frmListAverage()
         {
             InitializeComponent();
         }
 
-        private void BtnEnter_Click(object sender, EventArgs e)
+        private void btnEnter_Click(object sender, EventArgs e)
         {
+            // declare local variables
             int userMark = -1;
 
+            // convert the value in the textbox to an integer
             try
             {
                 userMark = int.Parse(txtMark.Text);
             }
+            // if the user did not enter a valid number, write the error to the command line
             catch (Exception parseError)
             {
                 Console.WriteLine("An error occured: '{0}'", parseError);
             }
 
+            // check if the user entered a number between 0 and 100
             if ((userMark >= 0) && (userMark <= 100))
             {
+                // add the mark to the listbox
                 this.lstMarks.Items.Add(userMark);
+
+                // add the mark to the list
                 myListOfIntegers.Add(userMark);
             }
+            // otherwise, display an error
             else
             {
                 MessageBox.Show("Please enter a number 0 and 100.", "Invalid Number");
             }
+        }
+
+        private void btnCalculate_Click(object sender, EventArgs e)
+        {
+            // declare local variable
+            double total;
+
+            // set the total to the average of the values in the list
+            total = myListOfIntegers.Average();
+
+            // display the average
+            this.lblAverage.Text = "The average is: " + String.Format("{0:0.0}", total);
+
         }
     }
 }
