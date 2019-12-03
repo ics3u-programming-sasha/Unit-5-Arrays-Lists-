@@ -7,3 +7,12 @@ C:\Users\S\Downloads\ListAverageSasha\ListAverageSasha\obj\Debug\ListAverageSash
 C:\Users\S\Downloads\ListAverageSasha\ListAverageSasha\obj\Debug\ListAverageSasha.csproj.GenerateResource.cache
 C:\Users\S\Downloads\ListAverageSasha\ListAverageSasha\obj\Debug\ListAverageSasha.exe
 C:\Users\S\Downloads\ListAverageSasha\ListAverageSasha\obj\Debug\ListAverageSasha.pdb
+C:\Users\S\Documents\ICS3U\Unit-5-Arrays-Lists-\ListAverageSasha\ListAverageSasha\obj\Debug\ListAverageSasha.csprojAssemblyReference.cache
+C:\Users\S\Documents\ICS3U\Unit-5-Arrays-Lists-\ListAverageSasha\ListAverageSasha\obj\Debug\ListAverageSasha.frmListAverage.resources
+C:\Users\S\Documents\ICS3U\Unit-5-Arrays-Lists-\ListAverageSasha\ListAverageSasha\obj\Debug\ListAverageSasha.Properties.Resources.resources
+C:\Users\S\Documents\ICS3U\Unit-5-Arrays-Lists-\ListAverageSasha\ListAverageSasha\obj\Debug\ListAverageSasha.csproj.GenerateResource.cache
+C:\Users\S\Documents\ICS3U\Unit-5-Arrays-Lists-\ListAverageSasha\ListAverageSasha\obj\Debug\ListAverageSasha.exe
+C:\Users\S\Documents\ICS3U\Unit-5-Arrays-Lists-\ListAverageSasha\ListAverageSasha\obj\Debug\ListAverageSasha.pdb
+C:\Users\S\Documents\ICS3U\Unit-5-Arrays-Lists-\ListAverageSasha\ListAverageSasha\bin\Debug\ListAverageSasha.exe.config
+C:\Users\S\Documents\ICS3U\Unit-5-Arrays-Lists-\ListAverageSasha\ListAverageSasha\bin\Debug\ListAverageSasha.exe
+C:\Users\S\Documents\ICS3U\Unit-5-Arrays-Lists-\ListAverageSasha\ListAverageSasha\bin\Debug\ListAverageSasha.pdb

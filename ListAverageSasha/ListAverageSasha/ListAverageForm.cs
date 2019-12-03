@@ -55,21 +55,26 @@ namespace ListAverageSasha
             // otherwise, display an error
             else
             {
-                MessageBox.Show("Please enter a number 0 and 100.", "Invalid Number");
+                MessageBox.Show("Please enter a number between 0 and 100.", "Invalid Number");
             }
         }
 
         private void btnCalculate_Click(object sender, EventArgs e)
         {
             // declare local variable
-            double total;
+            double total = 0;
+            double average = 0;
+            int counter;
 
-            // set the total to the average of the values in the list
-            total = myListOfIntegers.Average();
+            // calculate the average of the values in the list box
+            for (counter = 0; counter < myListOfIntegers.Count(); counter++)
+            {
+                total = myListOfIntegers[counter] + total;
+                average = total / myListOfIntegers.Count();
+            }
 
             // display the average
-            this.lblAverage.Text = "The average is: " + String.Format("{0:0.0}", total);
-
+            this.lblAverage.Text = "The average is: " + String.Format("{0:0.0}", average);
         }
     }
 }
