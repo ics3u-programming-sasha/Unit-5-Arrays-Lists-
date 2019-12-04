@@ -1,0 +1,9 @@
+C:\Users\S\Documents\ICS3U\Unit-5-Arrays-Lists-\DealCardSasha\DealCardSasha\bin\Debug\DealCardSasha.exe.config
+C:\Users\S\Documents\ICS3U\Unit-5-Arrays-Lists-\DealCardSasha\DealCardSasha\bin\Debug\DealCardSasha.exe
+C:\Users\S\Documents\ICS3U\Unit-5-Arrays-Lists-\DealCardSasha\DealCardSasha\bin\Debug\DealCardSasha.pdb
+C:\Users\S\Documents\ICS3U\Unit-5-Arrays-Lists-\DealCardSasha\DealCardSasha\obj\Debug\DealCardSasha.csprojAssemblyReference.cache
+C:\Users\S\Documents\ICS3U\Unit-5-Arrays-Lists-\DealCardSasha\DealCardSasha\obj\Debug\DealCardSasha.frmDealCard.resources
+C:\Users\S\Documents\ICS3U\Unit-5-Arrays-Lists-\DealCardSasha\DealCardSasha\obj\Debug\DealCardSasha.Properties.Resources.resources
+C:\Users\S\Documents\ICS3U\Unit-5-Arrays-Lists-\DealCardSasha\DealCardSasha\obj\Debug\DealCardSasha.csproj.GenerateResource.cache
+C:\Users\S\Documents\ICS3U\Unit-5-Arrays-Lists-\DealCardSasha\DealCardSasha\obj\Debug\DealCardSasha.exe
+C:\Users\S\Documents\ICS3U\Unit-5-Arrays-Lists-\DealCardSasha\DealCardSasha\obj\Debug\DealCardSasha.pdb
