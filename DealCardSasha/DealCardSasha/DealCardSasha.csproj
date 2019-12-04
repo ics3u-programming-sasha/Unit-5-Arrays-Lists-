@@ -236,5 +236,23 @@
   <ItemGroup>
     <None Include="Resources\TwoS.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back5.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -7,3 +7,13 @@ C:\Users\S\Documents\ICS3U\Unit-5-Arrays-Lists-\DealCardSasha\DealCardSasha\obj\
 C:\Users\S\Documents\ICS3U\Unit-5-Arrays-Lists-\DealCardSasha\DealCardSasha\obj\Debug\DealCardSasha.csproj.GenerateResource.cache
 C:\Users\S\Documents\ICS3U\Unit-5-Arrays-Lists-\DealCardSasha\DealCardSasha\obj\Debug\DealCardSasha.exe
 C:\Users\S\Documents\ICS3U\Unit-5-Arrays-Lists-\DealCardSasha\DealCardSasha\obj\Debug\DealCardSasha.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 5 (Arrays & Lists)\DealCardSasha\DealCardSasha\bin\Debug\DealCardSasha.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 5 (Arrays & Lists)\DealCardSasha\DealCardSasha\bin\Debug\DealCardSasha.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 5 (Arrays & Lists)\DealCardSasha\DealCardSasha\bin\Debug\DealCardSasha.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 5 (Arrays & Lists)\DealCardSasha\DealCardSasha\obj\Debug\DealCardSasha.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 5 (Arrays & Lists)\DealCardSasha\DealCardSasha\obj\Debug\DealCardSasha.frmDealCard.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 5 (Arrays & Lists)\DealCardSasha\DealCardSasha\obj\Debug\DealCardSasha.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 5 (Arrays & Lists)\DealCardSasha\DealCardSasha\obj\Debug\DealCardSasha.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 5 (Arrays & Lists)\DealCardSasha\DealCardSasha\obj\Debug\DealCardSasha.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 5 (Arrays & Lists)\DealCardSasha\DealCardSasha\obj\Debug\DealCardSasha.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 5 (Arrays & Lists)\DealCardSasha\DealCardSasha\obj\Debug\DealCardSasha.pdb
