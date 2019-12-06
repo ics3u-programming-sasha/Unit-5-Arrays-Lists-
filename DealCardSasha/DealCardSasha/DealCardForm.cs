@@ -119,14 +119,18 @@ namespace DealCardSasha
 
         private void picCard_Click(object sender, EventArgs e)
         {
+            // if there are zero cards left in the deck
             if (listCardImages.Count() <= 0)
             {
+                // display a message box saying that the cards are being reshuffled
                 MessageBox.Show("Reshuffling.", "Deal Card");
+                // clear the list 
                 this.listCardImages.Clear();
+                // call the FaceDown procedure
                 FaceDown();
+                // call the NewDeck procedure
                 NewDeck();
             }
-
             else
             {
                 // generate a random number
@@ -139,14 +143,18 @@ namespace DealCardSasha
 
         private void picCard2_Click(object sender, EventArgs e)
         {
+            // if there are zero cards left in the deck
             if (listCardImages.Count() <= 0)
             {
+                // display a message box saying that the cards are being reshuffled
                 MessageBox.Show("Reshuffling.", "Deal Card");
+                // clear the list 
                 this.listCardImages.Clear();
+                // call the FaceDown procedure
                 FaceDown();
+                // call the NewDeck procedure
                 NewDeck();
             }
-
             else
             {
                 // generate a random number
@@ -159,14 +167,18 @@ namespace DealCardSasha
 
         private void picCard3_Click(object sender, EventArgs e)
         {
+            // if there are zero cards left in the deck
             if (listCardImages.Count() <= 0)
             {
+                // display a message box saying that the cards are being reshuffled
                 MessageBox.Show("Reshuffling.", "Deal Card");
+                // clear the list 
                 this.listCardImages.Clear();
+                // call the FaceDown procedure
                 FaceDown();
+                // call the NewDeck procedure
                 NewDeck();
             }
-
             else
             {
                 // generate a random number
@@ -179,11 +191,16 @@ namespace DealCardSasha
 
         private void picCard4_Click(object sender, EventArgs e)
         {
+            // if there are zero cards left in the deck
             if (listCardImages.Count() <= 0)
             {
+                // display a message box saying that the cards are being reshuffled
                 MessageBox.Show("Reshuffling.", "Deal Card");
+                // clear the list 
                 this.listCardImages.Clear();
+                // call the FaceDown procedure
                 FaceDown();
+                // call the NewDeck procedure
                 NewDeck();
             }
             else
@@ -198,14 +215,18 @@ namespace DealCardSasha
 
         private void picCard5_Click(object sender, EventArgs e)
         {
+            // if there are zero cards left in the deck
             if (listCardImages.Count() <= 0)
             {
+                // display a message box saying that the cards are being reshuffled
                 MessageBox.Show("Reshuffling.", "Deal Card");
+                // clear the list 
                 this.listCardImages.Clear();
+                // call the FaceDown procedure
                 FaceDown();
+                // call the NewDeck procedure
                 NewDeck();
             }
-
             else
             {
                 // generate a random number
@@ -218,14 +239,18 @@ namespace DealCardSasha
 
         private void picCard6_Click(object sender, EventArgs e)
         {
+            // if there are zero cards left in the deck
             if (listCardImages.Count() <= 0)
             {
+                // display a message box saying that the cards are being reshuffled
                 MessageBox.Show("Reshuffling.", "Deal Card");
+                // clear the list 
                 this.listCardImages.Clear();
+                // call the FaceDown procedure
                 FaceDown();
+                // call the NewDeck procedure
                 NewDeck();
             }
-
             else
             {
                 // generate a random number
@@ -236,6 +261,10 @@ namespace DealCardSasha
             }
         }
 
+        // Procedure: FaceDown
+        // Input: None
+        // Output: void
+        // Description: Sets all of the cards face down. 
         private void FaceDown()
         {
             this.picCard.Image = Properties.Resources.Back;
