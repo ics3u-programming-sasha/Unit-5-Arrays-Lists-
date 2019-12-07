@@ -7,3 +7,12 @@ N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 5 (Arrays & Lis
 N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 5 (Arrays & Lists)\FileRWSasha\FileRWSasha\obj\Debug\FileRWSasha.csproj.CoreCompileInputs.cache
 N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 5 (Arrays & Lists)\FileRWSasha\FileRWSasha\obj\Debug\FileRWSasha.exe
 N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\Unit 5 (Arrays & Lists)\FileRWSasha\FileRWSasha\obj\Debug\FileRWSasha.pdb
+C:\Users\S\Documents\ICS3U\Unit-5-Arrays-Lists-\FileRWSasha\FileRWSasha\bin\Debug\FileRWSasha.exe.config
+C:\Users\S\Documents\ICS3U\Unit-5-Arrays-Lists-\FileRWSasha\FileRWSasha\bin\Debug\FileRWSasha.exe
+C:\Users\S\Documents\ICS3U\Unit-5-Arrays-Lists-\FileRWSasha\FileRWSasha\bin\Debug\FileRWSasha.pdb
+C:\Users\S\Documents\ICS3U\Unit-5-Arrays-Lists-\FileRWSasha\FileRWSasha\obj\Debug\FileRWSasha.csprojAssemblyReference.cache
+C:\Users\S\Documents\ICS3U\Unit-5-Arrays-Lists-\FileRWSasha\FileRWSasha\obj\Debug\FileRWSasha.FileRWForm.resources
+C:\Users\S\Documents\ICS3U\Unit-5-Arrays-Lists-\FileRWSasha\FileRWSasha\obj\Debug\FileRWSasha.Properties.Resources.resources
+C:\Users\S\Documents\ICS3U\Unit-5-Arrays-Lists-\FileRWSasha\FileRWSasha\obj\Debug\FileRWSasha.csproj.GenerateResource.cache
+C:\Users\S\Documents\ICS3U\Unit-5-Arrays-Lists-\FileRWSasha\FileRWSasha\obj\Debug\FileRWSasha.exe
+C:\Users\S\Documents\ICS3U\Unit-5-Arrays-Lists-\FileRWSasha\FileRWSasha\obj\Debug\FileRWSasha.pdb
